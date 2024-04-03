@@ -1,6 +1,3 @@
-To enhance the README with the prerequisites and basic usage information extracted from the article, you'll want to structure the README to offer a clear, step-by-step guide for developers who are interested in getting started with the "Race Ronin Chain" project. This includes detailing the setup requirements, how to compile and deploy the contract, and the initial steps to interact with the game. Here's an updated README structure that integrates the information from the article:
-
----
 
 <img width="1200" alt="Labs" src="https://user-images.githubusercontent.com/99700157/213291931-5a822628-5b8a-4768-980d-65f324985d32.png">
 
